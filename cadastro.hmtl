@@ -32,12 +32,12 @@
     } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
     const firebaseConfig = {
-       apiKey: "AIzaSyAUqMiMEgokg1HKorpP4ibt9MlldJR-yYw",
-  authDomain: "c-oficial-1df7d.firebaseapp.com",
-  projectId: "c-oficial-1df7d",
-  storageBucket: "c-oficial-1df7d.firebasestorage.app",
-  messagingSenderId: "81997680555",
-  appId: "1:81997680555:web:189b9a910471c83a034cee"
+       apiKey: "AIzaSyDYoIjofQ_meCQqEe7l2XDCWgsXbEqDWL4",
+  authDomain: "sexo-selvagem-cabuloso.firebaseapp.com",
+  projectId: "sexo-selvagem-cabuloso",
+  storageBucket: "sexo-selvagem-cabuloso.firebasestorage.app",
+  messagingSenderId: "533955668480",
+  appId: "1:533955668480:web:b4209bb883a1a384b606e5"
     };
 
     const app = initializeApp(firebaseConfig);
